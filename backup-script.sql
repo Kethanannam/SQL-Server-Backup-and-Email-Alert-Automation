@@ -1,5 +1,5 @@
 DECLARE @BackupPath NVARCHAR(500) = N'D:\Backup\';
-DECLARE @DatabaseName NVARCHAR(128) = N'Students';
+DECLARE @DatabaseName NVARCHAR(128) = N'Yourdatabase';
 DECLARE @DateSuffix NVARCHAR(50);
 DECLARE @FileName NVARCHAR(500);
 DECLARE @SQL NVARCHAR(MAX);
